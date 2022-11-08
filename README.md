@@ -1,1 +1,1 @@
-# WebStudia
+# goit-markup-hw-02
